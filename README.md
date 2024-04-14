@@ -6,6 +6,7 @@ Because yes, compiling these libraries is hell. I spent 3 days to make the build
 My use case is using them in OpenCV for Unity with CUDA for faster inference in motion tracking task (mediapipe):
 https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 
+I also leave the opencvforunity.dll file for the specific use of the Unity plugin.
 Refer to that link for more information:
 https://github.com/EnoxSoftware/OpenCVForUnity/issues/179
 
