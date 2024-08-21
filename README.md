@@ -18,4 +18,4 @@ To use them you should have the following dependencies installed (you can find a
   - copy also the headers from Interface folder to CUDA_FOLDER\v10.1\include)
 
  The libraries have been compiled for all supported GPU architectures.
- Tested on series 10, 20 and MX GPUs.
+ Tested on series 10, 20, 40 and MX GPUs.
